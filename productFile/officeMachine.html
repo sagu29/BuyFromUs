@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+/* #navabar{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    } */
+
+
+        body{
+            background-color: antiquewhite;
+
+        }
+
+
+/* navbar */
+#veryTop{
+           font-size: 13px; 
+            text-align:right ;
+            margin-right: 20px;
+            
+        }
+        #nav>img{
+            width: 60px;
+            margin-left: 30px;
+            height: 60px;
+            width: 99px;
+           
+        }
+        .a>img{
+            width: 10px;
+            
+        }
+        #down>img{
+            width: 60px;
+            height: 60px;
+            margin-right: 30px;
+        }
+        #nav{
+            display: flex;
+            height: 70px;
+            justify-content: space-between;
+            
+            align-items: center;
+            background-color: rgb(35, 87, 87);
+        }
+        .a{
+            text-decoration: none;
+            color: azure;
+            background-color: orangered;
+            color: antiquewhite;
+            border: none;
+            padding: 5px;
+            font-weight: bold;
+            height: 40px;
+            border-radius: 4px;
+            font-size: 14px;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+        #a{
+            /* margin-left: 30px; */
+            width: 70px;
+        }
+        #cat{
+            width:120px;
+            height: 42px;
+            background-color: orangered;
+            border: none;
+            border-radius: 8px;
+            font-size: 15px;
+            padding: 2px;
+            color: white;
+        }
+        #searchbox{
+            width: 420px;
+            height: 42px;
+            border-radius: 8px;
+            font-size: 15px;
+            border: none;
+            
+        }
+        #searchIcon{
+            height: 42px;
+            border-radius: 5px;
+           
+            border: none;
+        }
+
+/* nav ends */
+
+
+
+
+#product-container{
+        /* border: 2px solid red; */
+        /* border: 1px solid red; */
+        display: grid;
+        grid-template-columns:32% 32% 32%  ;
+        grid-gap: 20px;
+        margin-left: 150px;
+        /* margin-right: 40px; */
+        /* margin: auto; */
+        /* justify-content: center; */
+      }
+      #product-container>div{
+        /* border: 2px solid red; */
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        padding: 10px;
+        background-color: aliceblue;
+        border-radius: 5px;
+      }
+      #product-container>div>img{
+        height: 200px;
+        width: 100%;
+
+      }
+      #product-container>div>button{
+         /* display: block;
+         margin: auto; */
+         width: 270px;
+         background-color: rgb(81, 201, 245);
+         color: white;
+         padding: 5px;
+         border: none;
+         border-radius: 3px;
+         margin: 10px;
+
+      }
+
+
+      .navab{
+        display: flex;
+        justify-content: space-between;
+        /* position: fixed; */
+        top: 0;
+        width: 100%;
+        background-color: moccasin;
+      }
+      .navab button{
+        height: 50px;
+        width: 300px;
+        font-size: 18px;
+        background-color: orange;
+        border: none;
+      }
+      #filterByBrand{
+        width: 300px;
+        font-size: 18px;
+        background-color: moccasin;
+        border: 2px solid pink;
+
+      }
+      #sortByPrice{
+        width: 300px;
+        height: 50px;
+        font-size: 18px;
+        background-color: moccasin;
+        border: 2px solid pink;
+      }
+      #lat{
+        display: grid;
+        grid-template-columns: 15% 80%;
+        margin-top: 40PX;
+      }
+
+
+
+
+/* medium screen */
+@media all and (min-width: 561px) and (max-width: 1080px) {
+        #veryTop{
+           display: none;
+        }
+        #searchbox{
+          display: none;
+        }
+        #searchIcon{
+          display: none;
+        }
+        #product-container{
+        display: grid;
+        grid-template-columns:42% 42%  ;
+        grid-gap: 10px;
+        /* margin-left: 150px; */
+        
+      }
+      #product-container>div>button{
+        width: 100px;
+      }
+      #sortByPrice{
+        display: none;
+      }
+  }
+
+  /* small screen */
+        @media all and (min-width:150px) and (max-width : 560px){
+          #veryTop{
+           display: none;
+          }
+          #searchbox{
+          display: none;
+        }
+        #searchIcon{
+          display: none;
+        }
+        #product-container{
+        display: grid;
+        grid-template-columns:90%  ;
+        /* margin-left: 150px; */
+        
+      }
+      #product-container>div>button{
+        width: 80px;
+      }
+      #sortByPrice{
+        display: none;
+      }
+    }
+
+
+
+    </style>
+</head>
+<body>
+
+    <div id="navabar">
+        <h1 id="veryTop">For any query, email us at care@industrybuying.com or call us on +91 8448449073</h1>
+        <div id="nav">
+            <img src="./newlogo.png" alt="BuyFromUs" id="logo">
+            <form >
+                <select name="All Categories" id="cat">
+                    <option value="All Categories">All Categories</option>
+                    <option value="Agriculture Garden & Landscaping">Agriculture Garden & Landscaping</option>
+                    <option value="Power Tools">Power Tools</option>
+                    <option value="Office Supplies">Office Supplies</option>
+                    <option value="Material Handling & Packaging">Material Handling & Packaging</option>
+                    <option value="Pumps">Pumps</option>
+                    <option value="Automotive Maintenance & Accessories">Automotive Maintenance & Accessories</option>
+                    <option value="Hand Tools">Hand Tools</option>
+                    <option value="Electronics">Electronics</option>
+                    <option value="Electrical">Electrical</option>
+                    <option value="Cleaning">Cleaning</option>
+                </select>
+                <input type="text" placeholder="Search Products by title,supplier,sku,category,b" id="searchbox">
+                <button type="submit" id="searchIcon">🔍</button>
+            </form>
+            <a href="./signIn.html"><button class="a">Login / Register</button></a>
+            <a href="./cart.html"><button class="a" id="a">Cart</button></a>
+            <a href="https://play.google.com/store/apps/details?id=industrybuying.com.industrybuying" id="down"><img src="./playstore.png" alt=""></a>
+            
+        </div>
+    
+    </div>
+
+    <!-- navbar ends -->
+
+
+
+    <div class="navab">
+    <!-- <a href="./index.html"><button>Go back to Main Menu</button></a> -->
+    
+    <!-- <select  id="filterByBrand">
+        <option value="">Filer By Brand</option>
+        <option value=""></option>
+        <option value=""></option>
+        <option value=""></option>
+        <option value=""></option>
+       
+    </select> -->
+      <!-- <a href="./cart.html"><button>Cart</button></a> -->
+      <!-- <div>
+        <select  id="sortByPrice">
+            <option value="">Sort By Price</option>
+            <option value="priceAsc">price low to high</option>
+            <option value="priceDesc">price high to low</option>
+            <option value="DiscountAsc">Discount low to hight</option>
+            <option value="DiscountDesc">Discount high to low</option>
+        </select>
+      </div> -->
+    </div>
+
+
+    <div id="lat">
+    <div>
+      <select  id="sortByPrice">
+          <option value="">Sort By Price</option>
+          <option value="priceAsc">price low to high</option>
+          <option value="priceDesc">price high to low</option>
+          <!-- <option value="DiscountAsc">Discount low to hight</option>
+          <option value="DiscountDesc">Discount high to low</option> -->
+      </select>
+    </div>
+      <div id="product-container">
+        
+      </div>
+    </div>
+
+</body>
+</html>
+<script>
+    
+let arr=[]
+
+    async function FetchData(){
+        try{
+          let res=await fetch("./alldata.json")
+               res=await res.json()
+              console.log(res)
+               arr=[...res]
+              FilterData(arr)
+            
+
+        }catch(err){
+          console.log(err)
+        }
+    }
+    FetchData()
+    
+
+
+// let filterBy=document.getElementById("filterByBrand")
+//    filterBy.addEventListener("change",()=>{
+//        FetchData()
+//    })
+
+
+    function FilterData(data){
+      
+       
+        data=data.filter((product)=>{
+          
+          return product.name=="Office Machine"
+        })
+        DisplayProduct(data)    
+        
+    }
+
+    let CartArr=JSON.parse(localStorage.getItem("cart"))||[]
+
+    let Container=document.getElementById("product-container")
+
+    function DisplayProduct(data){
+      Container.innerHTML=""
+        data.forEach((product)=>{
+            let card=document.createElement("div")
+            let image=document.createElement("img")
+            let add_to_cart=document.createElement("button")
+              add_to_cart.textContent="Add to Cart"
+            let brand=document.createElement("h3")
+            let title=document.createElement("p")
+            // let desc=document.createElement("p")
+            let price=document.createElement("h2")
+            let cutoffPrice=document.createElement("s")
+            let discount=document.createElement("h4")
+            
+              image.src=product.img;
+              brand.textContent=product.brand;
+              title.textContent=product.title;
+              // desc.textContent=product.name;
+              price.textContent=`₹${product.price}`;
+              cutoffPrice.textContent=product.cutoffPrice
+              discount.textContent=`${product.Discount} Off`
+
+              
+            add_to_cart.addEventListener("click",()=>{
+                if(checkDuplicate(product)){
+                  alert("Product Already in Cart")
+                }else{
+                   CartArr.push({...product,quantity:1})
+                  localStorage.setItem("cart",JSON.stringify(CartArr))
+                  alert("Product Added To Cart")
+
+                }
+            })
+              card.append(image,add_to_cart,brand,title/*,desc*/,price,cutoffPrice,discount)
+              Container.append(card)
+        })
+
+        
+
+    }
+
+   function  checkDuplicate(product){
+        for(let i=0;i<CartArr.length;i++){
+          if(CartArr[i].title===product.title){
+            return true
+          }
+        }
+        return false
+   }
+
+
+
+  //  sorting
+   let sortBy=document.getElementById("sortByPrice")
+   sortBy.addEventListener("change",()=>{
+    sortData(arr)
+   })
+
+function sortData(arr){
+  let sortValue=sortBy.value
+  if(sortValue===""){
+       FilterData(arr)
+       }
+       else if(sortValue==="priceAsc"){
+        let sortdata=arr.sort((a,b)=>{
+                return a.price-b.price; 
+        })
+        FilterData(sortdata)
+       }
+       else if(sortValue==="priceDesc"){
+        let sortdata=arr.sort((a,b)=>{
+         
+          return b.price-a.price;
+        })
+        FilterData(sortdata)
+       }
+}
+  
+    
+  </script>

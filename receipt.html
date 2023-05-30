@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Receipt - Buy from Us</title>
+    <link rel="shortcut icon" type="x-icon" href="./imageFile/xxx.png" />
+    <link rel="stylesheet" href="./cssFile/receipt.css" />
+  </head>
+  <body>
+    <div id="nav">
+      <!-- <img id="image" src="./logo.png" alt="" /> -->
+      <div id="logo">
+        <a href="./index.html">
+          <img src="./imageFile/newlogo.png" alt="image not found" />
+          <!-- <h1>BUY<span>FROM US</span></h1> -->
+        </a>
+      </div>
+      <div id="track">
+        <button class="cart">Cart</button>
+        <p>----</p>
+        <button class="address">Address</button>
+        <p>----</p>
+        <button class="payment">Payment</button>
+      </div>
+      <button id="back">Back</button>
+    </div>
+
+    <h1 id="order">Your Order Is Successfully Placed</h1>
+    <h2 id="invoice">Invoice</h2>
+    <div class="container2">
+      <div id="innerCont2">
+        <div>
+          <h2>Order Details : <span id="count"> </span> items</h2>
+        </div>
+
+        <div id="shipping">
+          <p><b>Name</b> : <span id="name"></span></p>
+          <p><b>Mobile No.</b> : <span id="mobile"></span></p>
+          <p><b>Address</b> : <span id="address"></span></p>
+          <p><b>Pincode</b> : <span id="pincode"></span></p>
+        </div>
+
+        <div id="Div1">
+          <div>Total MRP</div>
+          <div><span id="MRP"></span></div>
+        </div>
+
+        <div id="Div2">
+          <div>Total Discount</div>
+          <div><span id="totalDiscount"></span></div>
+        </div>
+
+        <div id="Div3">
+          <div>Shipping Charges</div>
+          <div id="green">FREE</div>
+        </div>
+
+        <div id="Div3">
+          <div>Total Amount</div>
+          <div id="payableAmount"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script src="./jsFile/receipt.js"></script>
+</html>

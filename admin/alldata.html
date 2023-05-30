@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <style>
+    #submitBtn {
+      background-color: orange;
+      padding: 5px 10px;
+      border-style: none;
+      color: white;
+      border-radius: 5px;
+    }
+    #submitBtn:hover {
+      cursor: pointer;
+      background-color: limegreen;
+    }
+  </style>
+  <body>
+    <form id="form">
+      <br />
+      <input type="text" placeholder="Name of the Product" id="name" />
+      <br /><br />
+      <input type="number" placeholder="Discount" id="category" />
+      <br /><br />
+      <input type="text" placeholder="brand" id="brand" />
+      <br /><br />
+      <input type="text" placeholder="title" id="title" />
+      <br /><br />
+      <input type="text" placeholder="image URL" id="img" />
+      <br /><br />
+      <input type="number" placeholder="price" id="price" />
+      <br /><br />
+      <input type="text" placeholder="cutoffPrice" id="cutoffPrice" />
+      <br /><br />
+      <input type="number" placeholder="discount" id="discount" />
+      <br /><br />
+     
+      
+      <input type="submit" id="submitBtn" value="Add  Product" />
+    </form>
+
+    <br /><br /><br />
+
+    <button id="button">Render  Data</button>
+
+    <div id="container"></div>
+
+    <script src="./jsFile/alldata.js"></script>
+  </body>
+</html>

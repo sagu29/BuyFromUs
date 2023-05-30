@@ -1,0 +1,502 @@
+[
+    // Office Supplies tab
+
+   {
+       "name":"Office Chairs",
+       "category":"Office Supplies",
+       "brand":"IB BASICS",
+       "title":"IB BASICS Executive Low Back Mesh Chair Buy Two At Price Of One SS 105",
+       "img":"https://static1.industrybuying.com/products/office-supplies/office-furniture/office-chairs/OFF.OFF.91536387_1667991100244.webp",
+       "price":9800,
+       "cutoffPrice":"₹6,580",
+       "Discount":"32.86%"
+   },
+   {
+       "name":"Office Chairs",
+       "category":"Office Supplies",
+       "brand":"IRegent",
+       "title":"IB Basics Black Full Back Mesh Office Chair SS026 Pack of 2 Piece",
+       "img":"https://static1.industrybuying.com/products/office-supplies/office-furniture/office-chairs/OFF.OFF.41380990_1667984498563.webp",
+       "price":8500,
+       "cutoffPrice":"₹5,980",
+       "Discount":"29.65%"
+   },
+
+   {
+       "name":"Office Chairs",
+       "category":"Office Supplies",
+       "brand":"Divano",
+       "title":"IB Basics Black Full Back Mesh Office Chair SS026",
+       "img":"https://static1.industrybuying.com/products/office-supplies/office-furniture/office-chairs/OFF.OFF.31521747_1667990452842.webp",
+       "price":3380,
+       "cutoffPrice":"₹3,380",
+       "Discount":"0%"
+   },
+   {
+       "name":"Office Chairs",
+       "category":"Office Supplies",
+       "brand":"ERGO Chairs",
+       "title":"ERGO office Chair combo RSC - 547 Pack of 2 piec",
+       "img":"https://static1.industrybuying.com/products/office-supplies/office-furniture/office-chairs/OFF.OFF.101016715_1667972433598.webp",
+       "price":14600,
+       "cutoffPrice":"₹10,800",
+       "Discount":"26.03%"
+   },
+   {
+       "name":"Ink Cartridge & Toner",
+       "category":"Office Supplies",
+       "brand":"HP",
+       "title":"HP 12A Black Toner Cartridge",
+       "img":"https://static1.industrybuying.com/products/office-supplies/ink-cartridge-toner/OFF.INK.16995374_1667971025650.webp",
+       "price":4010,
+       "cutoffPrice":"₹1,180",
+       "Discount":"70%"
+   },
+   {
+       "name":"Ink Cartridge & Toner",
+       "category":"Office Supplies",
+       "brand":"Canon",
+       "title":"Canon Original Ink GI-790 Set of 4 Ink Cartridge & Toner",
+       "img":"https://static1.industrybuying.com/products/office-supplies/ink-cartridge-toner/OFF.INK.101972853_1668007228096.webp",
+       "price":2490,
+       "cutoffPrice":"₹2,490",
+       "Discount":"0%"
+   },
+   {
+       "name":"Ink Cartridge & Toner",
+       "category":"Office Supplies",
+       "brand":"Dubaria",
+       "title":"Dubaria Toner Cartridge Black for Ricoh SP 210SU Multi-function Printer",
+       "img":"https://static1.industrybuying.com/products/office-supplies/ink-cartridge-toner/OFF.INK.37723783_1672406920135.webp",
+       "price":848,
+       "cutoffPrice":"₹848",
+       "Discount":"0%"
+   },
+
+
+
+   {
+       "name":"Ink Cartridge & Toner",
+       "category":"Office Supplies",
+       "brand":"Dubam",
+       "title":"Dubam GI-70 Black Ink Bottle for Canon PIXMA GM2070, GM4070, G5070, G6070, G7070 Printers (Black)",
+       "img":"https://static1.industrybuying.com/products/office-supplies/ink-cartridge-toner/OFF.INK.57497110_1670386095148.webp",
+       "price":3539,
+       "cutoffPrice":"₹3,539",
+       "Discount":"87.91%"
+   },
+   {
+       "name":"Ink Cartridge & Toner",
+       "category":"Office Supplies",
+       "brand":"Konica Minolta",
+       "title":"Konica Minolta TN228K Black Toner Cartridge",
+       "img":"https://static1.industrybuying.com/products/office-supplies/ink-cartridge-toner/OFF.INK.76014932_1668224526984.webp",
+       "price":262237,
+       "cutoffPrice":"₹262,237",
+       "Discount":"97.91%"
+   },
+   {
+    "name":"Paper & Paper Products",
+    "category":"Office Supplies",
+    "brand":"Bindal",
+    "title":"Bindal Fine Prints Copier Paper 75 GSM A4 Size (1 Ream = 500 Sheets) (Pack of 5 Reams)",
+    "img":"https://static1.industrybuying.com/products/office-supplies/paper-paper-products/copy-multipurpose-paper/OF.OF.PA.CO.CO.316004_1670931525074.webp",
+    "price":1616,
+    "cutoffPrice":"₹1,616",
+    "Discount":"2.24%"
+},
+{
+    "name":"Paper & Paper Products",
+    "category":"Office Supplies",
+    "brand":"JK",
+    "title":"JK Copier Paper A4 Size 75GSM",
+    "img":"https://static1.industrybuying.com/products/office-supplies/paper-paper-products/copy-multipurpose-paper/OF.OF.PA.CO.CO.315981_1667853832042.webp",
+    "price":1800,
+    "cutoffPrice":"₹1,800",
+    "Discount":"0%"
+},
+{
+    "name":"Paper & Paper Products",
+    "category":"Office Supplies",
+    "brand":"Trident",
+    "title":"Trident Spectra Copier Paper 75 GSM A4 Size (1 Ream = 500 Sheets) (Pack of 5 Reams)",
+    "img":"https://static1.industrybuying.com/products/office-supplies/paper-paper-products/copy-multipurpose-paper/OFF.COP.54964198_1672638659186.webp",
+    "price":1880,
+    "cutoffPrice":"₹1,880",
+    "Discount":"0%"
+},
+{
+    "name":"Paper & Paper Products",
+    "category":"Office Supplies",
+    "brand":"BILT",
+    "title":"BIlt Copy Power Printer Paper A4 Size 75GSM",
+    "img":"https://static1.industrybuying.com/products/office-supplies/paper-paper-products/copy-multipurpose-paper/OFF.COP.44964218_1668147907722.webp",
+    "price":2140,
+    "cutoffPrice":"₹2,140",
+    "Discount":"0%"
+},
+{
+    "name":"Paper & Paper Products",
+    "category":"Office Supplies",
+    "brand":"Paperone",
+    "title":"Paperone Digital Inkjet & Laser Paper A3 Size 100GSM",
+    "img":"https://static1.industrybuying.com/products/office-supplies/paper-paper-products/copy-multipurpose-paper/OFF.COP.34964241_1669108243788.webp",
+    "price":868,
+    "cutoffPrice":"₹868",
+    "Discount":"0%"
+},
+{
+    "name":"Office Machine",
+    "category":"Office Supplies",
+    "brand":"IB BASICS",
+    "title":"IB BASICS 8 Sheet Cross Cut Paper Shredder OTL-408BCD",
+    "img":"https://static1.industrybuying.com/products/office-supplies/office-machine/shredders/OFF.SHR.52016224_1668009171148.webp",
+    "price":1980,
+    "cutoffPrice":"₹1,980",
+    "Discount":"0%"
+},
+{
+    "name":"Office Machine",
+    "category":"Office Supplies",
+    "brand":"Kores",
+    "title":"Kores 822 Easycut Paper Shredder",
+    "img":"https://static1.industrybuying.com/products/office-supplies/office-machine/shredders/OF.OF.SH9.1534271_1667921689983.webp",
+    "price":5480,
+    "cutoffPrice":"₹5,480",
+    "Discount":"0%"
+},
+{
+    "name":"Office Machine",
+    "category":"Office Supplies",
+    "brand":"Casio",
+    "title":"Casio MJ-120D 12 Digit Basic Desktop Calaculator",
+    "img":"https://static1.industrybuying.com/products/office-supplies/office-machine/calculators/LA.CA.202957_1667840858289.webp",
+    "price":578,
+    "cutoffPrice":"₹578",
+    "Discount":"0%"
+},
+{
+    "name":"Office Machine",
+    "category":"Office Supplies",
+    "brand":"GODREJ",
+    "title":"Godrej Crusader Lite Currency Counting Machine with Fake note Detector",
+    "img":"https://static1.industrybuying.com/products/office-supplies/office-machine/currency-counting-machine/OF.OF.CU.1578764_1667926940811.webp",
+    "price":22749,
+    "cutoffPrice":"₹16,800",
+    "Discount":"26.15%"
+},
+{
+    "name":"Office Machine",
+    "category":"Office Supplies",
+    "brand":"Texet",
+    "title":"Texet 10Ltr A4 Shredder PS-SC1EX",
+    "img":"https://static1.industrybuying.com/products/office-supplies/office-machine/shredders/OFF.SHR.25442140_1668182568316.webp",
+    "price":11199,
+    "cutoffPrice":"₹1,990 ",
+    "Discount":"82.23%"
+},
+{
+    "name":"Led Tv",
+    "category":"Office Supplies",
+    "brand":"Sony",
+    "title":"Sony Bravia 189 cm (75 inch) 4K Ultra HD Smart LED TV KD-75X80K Black (2022 Model)",
+    "img":"https://static1.industrybuying.com/products/office-supplies/led-tv/OFF.LED.106911000_1668347597276.webp",
+    "price":269900,
+    "cutoffPrice":"₹169,000",
+    "Discount":"37.38%"
+},
+{
+    "name":"Led Tv",
+    "category":"Office Supplies",
+    "brand":"TCL",
+    "title":"TCL 164 cm (65 Inch) 4K Ultra HD Certified Android Smart LED TV 65P615 (Black) (2020 Model)",
+    "img":"https://static1.industrybuying.com/products/office-supplies/led-tv/FUR.LED.86396810_1668277156745.webp",
+    "price":153587,
+    "cutoffPrice":"₹79,900",
+    "Discount":"47.98%"
+},
+{
+    "name":"Led Tv",
+    "category":"Office Supplies",
+    "brand":"Akai",
+    "title":"Akai 102 cm (40 inch) HD Ready Smart LED TV AKLT40S-B1Y9M Black (2022 Model)",
+    "img":"https://static1.industrybuying.com/products/office-supplies/led-tv/OFF.LED.26911272_1668347670041.webp",
+    "price":39667,
+    "cutoffPrice":"₹39,667",
+    "Discount":"44.79%"
+},
+{
+    "name":"Led Tv",
+    "category":"Office Supplies",
+    "brand":"Samsung",
+    "title":"Samsung 189 cm (75 Inch) 4K Ultra HD Smart LED TV UA75AU8000KLXL (Black) (2021 Model)",
+    "img":"https://static1.industrybuying.com/products/office-supplies/led-tv/FUR.LED.36412551_1668279216618.webp",
+    "price":326272,
+    "cutoffPrice":"₹218,000",
+    "Discount":"33.18%"
+},
+{
+    "name":"Led Tv",
+    "category":"Office Supplies",
+    "brand":"Sansui",
+    "title":"Sansui 102cm (40 Inch) Full HD Certified Android LED TV JSW40ASFHD (Midnight Black) (2021 Model) | With Voice Search Smart",
+    "img":"https://static1.industrybuying.com/products/office-supplies/led-tv/FUR.LED.76412671_1668279253677.webp",
+    "price":32990,
+    "cutoffPrice":"₹22,800 ",
+    "Discount":"30.89%"
+},
+
+// Material Handling and Packaging
+
+{
+    "name":"Hoists And Trolleys",
+    "category":"Material Handling and Packaging",
+    "brand":"Fulcrum",
+    "title":"Fulcrum Mini Electric Rope Hoist 600W PA-300",
+    "img":"https://static1.industrybuying.com/products/material-handling-and-packaging/hoists-and-trolleys/electric-hoist/MAT.ELE.82400223_1674643362627.webp",
+    "price":7480 ,
+    "cutoffPrice":"₹7,480 ",
+    "Discount":"0%"
+},
+{
+    "name":"Hoists And Trolleys",
+    "category":"Material Handling and Packaging",
+    "brand":"Boltz Corporation",
+    "title":"Boltz Corporation Electric Hoist PA 1500 With Electric Travelling Trolley",
+    "img":"https://static1.industrybuying.com/products/material-handling-and-packaging/hoists-and-trolleys/electric-travelling-trolley/MAT.ELE.105424628_1668181066132.webp",
+    "price":29900,
+    "cutoffPrice":"₹29,900",
+    "Discount":"0%"
+},
+{
+    "name":"Hoists And Trolleys",
+    "category":"Material Handling and Packaging",
+    "brand":"4G Laminates",
+    "title":"4G Laminates Iron Manual Hand Winch with 450 Kg Capacity",
+    "img":"https://static1.industrybuying.com/products/material-handling-and-packaging/hoists-and-trolleys/winch-machine/MAT.WIN.57393703_1669033518223.webp",
+    "price":2444,
+    "cutoffPrice":"₹2,444",
+    "Discount":"18.57%"
+},
+{
+    "name":"Hoists And Trolleys",
+    "category":"Material Handling and Packaging",
+    "brand":"INDER",
+    "title":"Inder 2500 lbs Capacity Hand Winch P-435A",
+    "img":"https://static1.industrybuying.com/products/material-handling-and-packaging/hoists-and-trolleys/winch-machine/MAT.WIN.33180304_1668054417867.webp",
+    "price":10220,
+    "cutoffPrice":"₹10,220",
+    "Discount":"12.04%"
+},
+{
+    "name":"Hoists And Trolleys",
+    "category":"Material Handling and Packaging",
+    "brand":"CHAMPION",
+    "title":"Champion Mini wire Rope Hoist AS.PA0250/200",
+    "img":"https://static1.industrybuying.com/products/material-handling-and-packaging/hoists-and-trolleys/electric-hoist/MAT.ELE.12697096_1672741636526.webp",
+    "price":11237,
+    "cutoffPrice":"₹8,990 ",
+    "Discount":"20.00%%"
+},
+{
+    "name":"Chain Pulley Blocks and Accessories",
+    "category":"Material Handling and Packaging",
+    "brand":"Fulcrum",
+    "title":"Fulcrum 5 Ton 6 Mtr Chain Pulley Block 5T6M",
+    "img":"https://static1.industrybuying.com/products/material-handling-and-packaging/chain-pulley-blocks-and-accessories/chain-pulley-block/MAT.CHA.45967234_1668220253109.webp",
+    "price":9990,
+    "cutoffPrice":"₹9,990",
+    "Discount":"0%"
+},
+{
+    "name":"Chain Pulley Blocks and Accessories",
+    "category":"Material Handling and Packaging",
+    "brand":"Boltz Corporation",
+    "title":"Boltz 2 Ton 6 Mtr HSZ-C Chain Pulley Block HSZ-C",
+    "img":"https://static1.industrybuying.com/products/material-handling-and-packaging/chain-pulley-blocks-and-accessories/chain-pulley-block/MAT.CHA.105969435_1668220433866.webp",
+    "price":6490,
+    "cutoffPrice":"₹6,490",
+    "Discount":"0%"
+},
+{
+    "name":"Chain Pulley Blocks and Accessories",
+    "category":"Material Handling and Packaging",
+    "brand":"IB BASICS",
+    "title":"IB Basics 5 Ton, 3 Metre Light Weight Chain Pulley Block",
+    "img":"https://static1.industrybuying.com/products/material-handling-and-packaging/chain-pulley-blocks-and-accessories/chain-pulley-block/MAT.CHA.17969391_1667969937073.webp",
+    "price":20220,
+    "cutoffPrice":"₹20,220",
+    "Discount":"7.02%"
+},
+{
+    "name":"Chain Pulley Blocks and Accessories",
+    "category":"Material Handling and Packaging",
+    "brand":"Globe",
+    "title":"Globe CL2S Classic 2 Ton Chain Pully Block 4.5 m",
+    "img":"https://static1.industrybuying.com/products/material-handling-and-packaging/chain-pulley-blocks-and-accessories/chain-pulley-block/MAT.CHA.56930051_1668350980502.webp",
+    "price":17250,
+    "cutoffPrice":"₹17,250",
+    "Discount":"20.00%"
+},
+{
+    "name":"Chain Pulley Blocks and Accessories",
+    "category":"Material Handling and Packaging",
+    "brand":"SAFELIFT",
+    "title":"Safelift CBRL1003 10 Ton 6m Chain Pulley Block",
+    "img":"https://static1.industrybuying.com/products/material-handling-and-packaging/chain-pulley-blocks-and-accessories/chain-pulley-block/MAT.CHA.28382188_1678884806763.webp",
+    "price":71196,
+    "cutoffPrice":"₹71,196",
+    "Discount":"1.82%"
+},
+{
+    "name":"Plastic Crates",
+    "category":"Material Handling and Packaging",
+    "brand":"SUPREME",
+    "title":"SUPREME 4 Ltr 300x200x100 mm Plastic Crates SCL-302010",
+    "img":"https://static1.industrybuying.com/products/material-handling-and-packaging/plastic-crates/PL.ST.PL5.403121_1667866916155.webp",
+    "price":188,
+    "cutoffPrice":"₹188",
+    "Discount":"0%"
+},
+{
+    "name":"Plastic Crates",
+    "category":"Material Handling and Packaging",
+    "brand":"ARISTO",
+    "title":"Aristo 73070 TP Plastic Crate",
+    "img":"https://static1.industrybuying.com/products/material-handling-and-packaging/plastic-crates/PL.ST.PL5.1393077_1667900353079.webp",
+    "price":463,
+    "cutoffPrice":"₹398",
+    "Discount":"14.01%"
+},
+{
+    "name":"Plastic Crates",
+    "category":"Material Handling and Packaging",
+    "brand":"Ultima",
+    "title":"Ultima UCH-64485 99 Ltr Blue HDPE Crate",
+    "img":"https://static1.industrybuying.com/products/material-handling-and-packaging/plastic-crates/MAT.PLA.45765613_1668204653249.webp",
+    "price":1380,
+    "cutoffPrice":"₹1,380",
+    "Discount":"0%"
+},
+{
+    "name":"Plastic Crates",
+    "category":"Material Handling and Packaging",
+    "brand":"Fulcrum",
+    "title":"Fulcrum 60 Ltr 600x400x300 mm 40kg Plastic Foldable Crate STP-604030",
+    "img":"https://static1.industrybuying.com/products/material-handling-and-packaging/plastic-crates/MAT.PLA.85440283_1669893920427.webp",
+    "price":2749,
+    "cutoffPrice":"₹1,480 ",
+    "Discount":"46.17%"
+},
+{
+    "name":"Plastic Crates",
+    "category":"Material Handling and Packaging",
+    "brand":"Nilkamal",
+    "title":"Nilkamal JBC-64320 Perforated Crate Walls With Closed Bottom",
+    "img":"https://static1.industrybuying.com/products/material-handling-and-packaging/plastic-crates/MAT.PLA.82790925_1668031464821.webp",
+    "price":2359,
+    "cutoffPrice":"₹1,190 ",
+    "Discount":"49.55%"
+},
+{
+    "name":"Pallet Trucks",
+    "category":"Material Handling and Packaging",
+    "brand":"Fulcrum",
+    "title":"Fulcrum 2.5 Ton 550 x 1150 mm Hand Pallet Truck With PU Wheels HPT2.5T",
+    "img":"https://static1.industrybuying.com/products/material-handling-and-packaging/pallet-trucks/MAT.PAL.91518823_1669893932698.webp",
+    "price":30393,
+    "cutoffPrice":"₹17,800",
+    "Discount":"41.43%"
+},
+{
+    "name":"Pallet Trucks",
+    "category":"Material Handling and Packaging",
+    "brand":"STANLEY",
+    "title":"Stanley 2500kg Alloy Steel Yellow Hand Pallet Truck, CPT-25W",
+    "img":"https://static1.industrybuying.com/products/material-handling-and-packaging/pallet-trucks/MAT.PAL.35281665_1668169645919.webp",
+    "price":64360,
+    "cutoffPrice":"₹64,360",
+    "Discount":"53.70%"
+},
+{
+    "name":"Pallet Trucks",
+    "category":"Material Handling and Packaging",
+    "brand":"GODREJ",
+    "title":"Godrej GPT 2500 NT 2.5 Ton Hand Pallet Truck",
+    "img":"https://static1.industrybuying.com/products/material-handling-and-packaging/pallet-trucks/MAT.PAL.14124634_1667942684340.webp",
+    "price":28900,
+    "cutoffPrice":"₹28,900",
+    "Discount":"0%"
+},
+{
+    "name":"Pallet Trucks",
+    "category":"Material Handling and Packaging",
+    "brand":"Prasti",
+    "title":"Prasti 2000kg Hydraulic Hand Pallet Truck PSTHPT20",
+    "img":"https://static1.industrybuying.com/products/material-handling-and-packaging/pallet-trucks/MAT.PAL.86878637_1668342771385.webp",
+    "price": 23010,
+    "cutoffPrice":"₹18,900",
+    "Discount":"17.86%"
+},
+{
+    "name":"Pallet Trucks",
+    "category":"Material Handling and Packaging",
+    "brand":"JET",
+    "title":"JET 2500 Kg Hand Pallet Truck TMBC25",
+    "img":"https://static1.industrybuying.com/products/material-handling-and-packaging/pallet-trucks/MAT.PAL.22238416_1672840377025.webp",
+    "price":19900,
+    "cutoffPrice":"₹19,900",
+    "Discount":"0%"
+},
+{
+    "name":"Platform Trolley",
+    "category":"Material Handling and Packaging",
+    "brand":"Fulcrum",
+    "title":"Fulcrum 150 Kg Heavy Duty Foldable Platform Trolley PH150",
+    "img":"https://static1.industrybuying.com/products/material-handling-and-packaging/platform-trolley/MAT.PLA.91518620_1667990365953.webp",
+    "price":2990,
+    "cutoffPrice":"₹2,990",
+    "Discount":"0%"
+},
+{
+    "name":"Platform Trolley",
+    "category":"Material Handling and Packaging",
+    "brand":"BIGAPPLE",
+    "title":"Bigapple 300 Kg Capacity SS Platform Trolley TRLSPH",
+    "img":"https://static1.industrybuying.com/products/material-handling-and-packaging/platform-trolley/MAT.PLA.82964023_1668040932144.webp",
+    "price":10074,
+    "cutoffPrice":"₹4,990",
+    "Discount":"50.47%"
+},
+{
+    "name":"Platform Trolley",
+    "category":"Material Handling and Packaging",
+    "brand":"SK ENGINEERING",
+    "title":"SK Engineering 300 Kg Capacity SS Foldable Platform Trolley",
+    "img":"https://static1.industrybuying.com/products/material-handling-and-packaging/platform-trolley/MAT.PLA.72862196_1668034952184.webp",
+    "price":8880,
+    "cutoffPrice":"₹8,880",
+    "Discount":"0%"
+},
+{
+    "name":"Platform Trolley",
+    "category":"Material Handling and Packaging",
+    "brand":"Corvids",
+    "title":"Corvids 200 Kg Plastic Folding Platform Trolley with 360° Rotating Wheels CPT-PL200",
+    "img":"https://static1.industrybuying.com/products/material-handling-and-packaging/platform-trolley/MAT.PLA.87881738_1674645146021.webp",
+    "price":3190 ,
+    "cutoffPrice":"₹3,190 ",
+    "Discount":"0%"
+},
+{
+    "name":"Platform Trolley",
+    "category":"Material Handling and Packaging",
+    "brand":"Black & Decker",
+    "title":"Black+Decker H303 80kg Steel platform truck",
+    "img":"https://static1.industrybuying.com/products/material-handling-and-packaging/platform-trolley/MAT.PLA.45281847_1668169672691.webp",
+    "price":7786,
+    "cutoffPrice":"₹3,380",
+    "Discount":"56.59%"
+}
+   
+]

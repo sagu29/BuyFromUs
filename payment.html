@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Payment - Buy from Us</title>
+    <link rel="shortcut icon" type="x-icon" href="./imageFile/xxx.png" />
+    <link rel="stylesheet" href="./cssFile/payment.css" />
+  </head>
+  <body>
+    <div id="nav">
+      <!-- <img id="image" src="./logo.png" alt=""> -->
+      <!-- ================================ -->
+      <div id="logo">
+        <a href="./index.html">
+          <img src="./imageFile/newlogo.png" alt="image not found" />
+          <!-- <h1>BUY<span>FROM US</span></h1> -->
+        </a>
+      </div>
+      <!-- ================================ -->
+      <div id="track">
+        <button class="cart">Cart</button>
+        <p>----</p>
+        <button class="address">Address</button>
+        <p>----</p>
+        <button class="payment">Payment</button>
+      </div>
+      <button id="back">Back</button>
+    </div>
+
+    <div id="main-container">
+      <div class="container1">
+        <div class="adderssCont">
+          <div id="delivery">
+            <h2>Delivery Address</h2>
+            <h3 id="change">Change</h3>
+          </div>
+          <span id="deliverAdd"></span>
+        </div>
+
+        <form>
+          <div id="div1">
+            <h2>Enter Your Card Details</h2>
+            <div>
+              <p>Card Holder Name*</p>
+              <input id="name" type="text" placeholder="Enter Full name" />
+            </div>
+          </div>
+
+          <div id="div2">
+            <p>Card Number*</p>
+            <input
+              id="cardNumber"
+              type="number"
+              placeholder="Enter Card Number"
+            />
+          </div>
+
+          <div id="div3">
+            <div>
+              <p>Issue date</p>
+              <input id="issue" type="date" placeholder="Enter Issue Date" />
+            </div>
+            <div>
+              <p>Expiry Date*</p>
+              <input id="expiry" type="date" placeholder="Enter Expiry Date" />
+            </div>
+          </div>
+
+          <input id="pay" type="submit" value="PAY" />
+        </form>
+      </div>
+      <div class="container2">
+        <div id="innerCont2">
+          <div>
+            <h2>Order Summary : <span id="count"> </span> items</h2>
+          </div>
+
+          <div id="Div1">
+            <div>Total MRP</div>
+            <div><span id="MRP"></span></div>
+          </div>
+
+          <div id="Div2">
+            <div>Total Discount</div>
+            <div><span id="totalDiscount"></span></div>
+          </div>
+
+          <div id="Div3">
+            <div>Shipping Charges</div>
+            <div id="green">FREE</div>
+          </div>
+
+          <div id="Div4">
+            <div>Payable Amount</div>
+            <div id="payableAmount"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script src="./jsFile/payment.js"></script>
+</html>
